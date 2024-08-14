@@ -1,4 +1,4 @@
-name: js linter
+name: js audit
  
 on:
   push:
